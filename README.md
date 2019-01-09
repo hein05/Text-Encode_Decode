@@ -15,7 +15,7 @@
 
 ## Next (Future implementation)
 
-###### (Comment : Hoping to grow "Old" with this project as far as I am interested)
+###### (Comment : Hoping to grow "Old", :wink:, with this project as far as I am interested )
 
 - [ ] To implement Decoding process with GUI.
 - [ ] To Export Technical Details with GUI.
