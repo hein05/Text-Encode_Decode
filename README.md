@@ -13,6 +13,15 @@
 - Write to Encoded File.
 - Decode the encoded text back to original text.
 
+## Next (Future implementation)
+
+###### (Comment : Hoping to grow "Old" with this project as far as I am interested)
+
+- [ ] To implement Decoding process with GUI.
+- [ ] To Export Technical Details with GUI.
+- [ ] To Encrypt Encoded Text.
+- [ ] To Decrypt Decoding Text.
+- [ ] To implement with different Data Structure (Ex: Fibonacci Heap).
 
 ## Files
 
@@ -45,7 +54,11 @@
 
 ## Demostration
   
+  #### All Function w/o GUI
 ![](https://imgur.com/sO0xlQ3.gif)
+
+ #### With GUI (Only Encoding for now)
+![](https://imgur.com/z8cz0T3.gif)
 
 
 
