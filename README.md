@@ -17,6 +17,7 @@
 
 ###### (Comment : Hoping to grow "Old", :wink:, with this project as far as I am interested )
 
+- [x] To implement Encoding process with GUI.
 - [ ] To implement Decoding process with GUI.
 - [ ] To Export Technical Details with GUI.
 - [ ] To Encrypt Encoded Text.
