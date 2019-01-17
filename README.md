@@ -56,7 +56,7 @@
 ## Demostration
   
   #### All Function w/o GUI
-![](https://imgur.com/sO0xlQ3.gif)
+![](https://imgur.com/RtV0D1W.gif)
 
  #### With GUI (Only Encoding for now)
 ![](https://imgur.com/z8cz0T3.gif)
